@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Maurício Naoki",
+      "email": "naokimau@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "title": "Produto 1",
+      "price": 200,
+      "id": 1
+    },
+    {
+      "title": "Produto 1",
+      "price": "150",
+      "id": 2
+    },
+    {
+      "title": "Produto 1",
+      "price": "150",
+      "id": 3
+    },
+    {
+      "title": "Produto 1",
+      "price": "150",
+      "id": 4
+    },
+    {
+      "title": "Produto 1",
+      "price": "150",
+      "id": 5
+    },
+    {
+      "title": "Produto 1",
+      "price": "150",
+      "id": 6
+    }
+  ],
+  "orders": [
+    {
+      "date": "2022-02-21T14:33:12.339Z",
+      "uuid": "af7f2cbc-d7ee-4b2d-810f-1050d0fddef3",
+      "id": 1
+    }
+  ]
+}
